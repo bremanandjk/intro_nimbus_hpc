@@ -1,7 +1,6 @@
 # Introduction to HPC in the Cloud
 
-
-(C) 2021 Conn O'Rourke (cor22@bath.ac.uk), Rsearch Software Engineer, University Bath
+Research Software Engineer, University Bath
 
 This repository contains the lesson 'Introduction to Nimbus', an introduction to Nimbus: the HPC in the cloud environment at the University of Bath provided by the Research Computing Team.
 
